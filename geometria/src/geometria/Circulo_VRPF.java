@@ -1,4 +1,5 @@
-//vesión inicial
+package geometria;
+
 public class Circulo_VRPF extends FiguraGeometrica_VRPF {
 	private double radio;
 	//Constante pi
@@ -6,6 +7,7 @@ public class Circulo_VRPF extends FiguraGeometrica_VRPF {
 	
 	public Circulo_VRPF(double r, String tipoFigura) {
 		super(tipoFigura);
+		radio = r;
         if (radio<0) {
             radio = r*-1;
         }

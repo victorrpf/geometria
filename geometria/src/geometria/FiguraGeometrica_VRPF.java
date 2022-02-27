@@ -1,4 +1,5 @@
-//versión inicial
+package geometria;
+
 public abstract class FiguraGeometrica_VRPF {
 
 	protected String tipoFigura;

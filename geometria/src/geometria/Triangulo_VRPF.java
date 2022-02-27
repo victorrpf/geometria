@@ -1,4 +1,5 @@
-//versión inicial
+package geometria;
+
 public class Triangulo_VRPF extends FiguraGeometrica_VRPF {
 	private double lado1;
 	private double lado2;

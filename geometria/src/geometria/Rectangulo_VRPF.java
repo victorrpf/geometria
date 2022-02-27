@@ -1,4 +1,5 @@
-//versión inicial
+package geometria;
+
 public class Rectangulo_VRPF extends FiguraGeometrica_VRPF {
 	private double l1;
 	private double l2;
