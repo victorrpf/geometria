@@ -1,4 +1,4 @@
-
+//versión inicial
 public class Triangulo extends FiguraGeometrica {
 	private double a;
 	private double b;
